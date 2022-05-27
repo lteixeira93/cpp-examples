@@ -1,1 +1,13 @@
 .vs
+*.sln
+*.vcxproj
+*.recipe
+*.ilk
+*.log
+*.pdb
+*.tlog
+*.idb
+*.user
+*.filters
+*.exe
+/x64
