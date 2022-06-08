@@ -24,10 +24,10 @@ public:
 };
 
 int main() {
-//   Base b;
-//    Base b{100};
- //   Derived d;
- Derived d {1000};
+    Base b;
+    // Base b{100};
+    // Derived d;
+    // Derived d {1000};
     
     return 0;
 }
